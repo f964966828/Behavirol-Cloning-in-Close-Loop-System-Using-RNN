@@ -4,7 +4,7 @@
 - [Training Dataset](https://drive.google.com/drive/folders/1uyB14puU97SSEH-J0UQmiFLNk3_FFVLI?usp=sharing)
 
 ## Start Training
-- choose **path_name** to determine where to store log and model 
+- Choose **path_name** to determine where to store log and model 
 ```
 python main.py --path_name mse_model
 ```
