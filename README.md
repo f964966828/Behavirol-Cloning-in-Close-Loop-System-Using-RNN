@@ -1,7 +1,7 @@
 # Behavirol-Cloning-in-Close-Loop-System-Using-RNN
 
 ## Downloads
-[Dataset](https://drive.google.com/drive/folders/1uyB14puU97SSEH-J0UQmiFLNk3_FFVLI?usp=sharing)
+- [Training Dataset](https://drive.google.com/drive/folders/1uyB14puU97SSEH-J0UQmiFLNk3_FFVLI?usp=sharing)
 
 ## Start Training
 - choose **path_name** to determine where to store log and model 
